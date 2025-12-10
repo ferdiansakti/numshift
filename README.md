@@ -121,11 +121,6 @@ NumShift adalah puzzle modern yang:
 
 ---
 
-## 📷 Preview (Opsional)
-Tambahkan screenshot game di sini jika sudah ada.
-
----
-
 ## 📬 Kontak
 Jika ingin memberi feedback atau kontribusi, silakan buat **issue** atau **pull request** di repository ini.
 
